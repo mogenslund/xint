@@ -1,0 +1,24 @@
+CASE 101 — JUST GREP
+---------------------
+Status: TRAINING EXERCISE
+
+A logistics company suspects an employee is diverting shipments.
+We pulled these files from the suspect's workstation:
+
+  logs/log0.txt      Server log (raw socket traffic)
+  comm/emails.txt    E-mail archive
+  comm/contacts.txt  Address book
+  docs/manifest.csv  Shipping manifest
+
+A colleague already tried: grep "socket 001" logs/log0.txt
+She found nothing useful on that channel. Pick up where she left off.
+
+We have reasons to believe that a keyword going through one of the
+sockets can be used to identify one of the emails.
+
+ANSWER FORMAT
+  <name>-<city>  (e.g. Brian-Copenhagen)
+
+VERIFY
+  echo -n "NAME-CITY" | md5
+  Correct hash: ff85c5d47ce56d3dca0c7edc478ab483
