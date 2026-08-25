@@ -1,0 +1,5 @@
+window,sector,cloud_base_m,visibility_km,precipitation,ground,evidence_id
+2031-09-18T18:00Z/24:00Z,KESTREL,700,6,light rain,soft,E042
+2031-09-19T00:00Z/06:00Z,KESTREL,1400,12,none,firming,E043
+2031-09-19T06:00Z/12:00Z,KESTREL,500,3,heavy rain,soft,E044
+2031-09-19T00:00Z/06:00Z,NORTH,900,8,none,firm,E045

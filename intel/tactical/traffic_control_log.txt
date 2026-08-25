@@ -1,0 +1,6 @@
+2031-09-18T19:20Z - Civil traffic restriction request received.
+Route: EAST-YARD -> K9 -> KORIN-BRIDGE-EAST
+Window: 2031-09-18T22:00Z through 2031-09-19T06:00Z
+Priority assigned to tracked vehicles and fuel transporters.
+Requesting formation: 2ARM
+Evidence-ID: E041

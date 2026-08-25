@@ -1,0 +1,5 @@
+time,train,origin,destination,cargo,unit,evidence_id
+2031-09-14T03:20Z,R441,VESPER-CENTRAL,EAST-YARD,18 tanks,2ARM,E021
+2031-09-15T02:50Z,R447,VESPER-CENTRAL,EAST-YARD,22 infantry fighting vehicles,2ARM,E022
+2031-09-17T21:10Z,R501,EAST-YARD,NORTH-GATE,empty flatcars,none,E023
+2031-09-18T01:15Z,R509,SOUTH-YARD,EAST-YARD,engineering equipment,ENG7,E024

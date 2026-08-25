@@ -1,0 +1,4 @@
+time,battery,location,status,supported_unit,evidence_id
+2031-09-17T18:00Z,A12,EAST-RIDGE,occupied,2ARM,E038
+2031-09-18T00:40Z,A14,EAST-RIDGE,occupied,2ARM,E039
+2031-09-18T08:30Z,B03,NORTH-GATE,simulated position,11GDB,E040

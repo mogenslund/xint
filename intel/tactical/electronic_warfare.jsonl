@@ -1,0 +1,3 @@
+{"timestamp":"2031-09-17T22:05:00Z","area":"KESTREL","effect":"short GPS degradation test","duration_minutes":8,"evidence_id":"E035"}
+{"timestamp":"2031-09-18T09:40:00Z","area":"NORTH-GATE","effect":"high-power radio traffic simulating brigade net","duration_minutes":55,"assessment":"possible deception exercise","evidence_id":"E036"}
+{"timestamp":"2031-09-18T21:30:00Z","area":"KESTREL","effect":"planned wideband GPS and tactical-radio jamming window","scheduled":"2031-09-19T00:00Z/06:00Z","evidence_id":"E037"}
