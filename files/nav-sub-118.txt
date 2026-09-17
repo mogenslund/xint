@@ -1,0 +1,58 @@
+CLASSIFICATION: SECRET
+DOCUMENT ID: NAV-SUB-118
+STATUS: ACTIVE
+
+Designation:
+  KRAKEN CLASS ATTACK SUBMARINE
+
+Hull Number:
+  K-118
+
+Home Port:
+  Severny Naval Facility
+
+Commander:
+  Capt. Sergei Volkov
+
+Specifications:
+  Length:             92 m
+  Beam:               10.2 m
+  Displacement:       4,600 tons
+  Maximum Depth:      520 m
+  Endurance:          75 days
+  Propulsion:         Diesel-electric
+  Crew:               48
+
+Armament:
+  6 x Torpedo Tubes
+  18 x Heavy Torpedoes
+  4 x Anti-Ship Missiles
+
+Operational Notes:
+  K-118 is responsible for escorting sensitive
+  cargo shipments routed through the northern sector.
+
+Security Procedures:
+  Cargo destinations are never recorded directly in
+  naval communications.
+
+  Shipment destinations can be reconstructed from:
+    1. Employee contact records
+    2. Shipping manifests
+    3. Port authority schedules
+
+Recent Activity:
+  2026-03-17 Departed Severny
+  2026-03-18 Refueled at Port Echo
+  2026-03-19 Received cargo transfer orders
+  2026-03-20 Entered patrol zone
+
+INTELLIGENCE NOTE:
+  Logistics officer Vladimir Memmytov approved the
+  diversion request associated with the current cargo.
+
+Analyst Assessment:
+  Further details are believed to exist in personnel
+  records and manifest archives.
+
+END OF DOCUMENT

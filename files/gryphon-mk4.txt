@@ -1,0 +1,58 @@
+CLASSIFICATION: RESTRICTED
+DOCUMENT ID: WPN-MSL-042
+PROJECT: GRYPHON
+STATUS: ACTIVE
+
+Designation:
+  Gryphon Mk IV Tactical Missile
+
+Manufacturer:
+  North Coast Defense Systems
+
+Role:
+  Mobile precision strike missile designed to destroy
+  command structures, radar installations, fuel depots,
+  and hardened communications bunkers.
+
+Specifications:
+  Length:            5.8 m
+  Diameter:          0.52 m
+  Launch Weight:     1,450 kg
+  Warhead Weight:    310 kg
+  Propulsion:        Solid fuel rocket motor
+  Maximum Range:     240 km
+  Cruise Speed:      Mach 2.4
+  Guidance:          INS + terrain matching radar
+  Circular Error:    < 8 m
+  Launch Prep Time:  22 minutes
+
+Operational Notes:
+  The missile is transported on a 6x6 TEL vehicle.
+  Launch crews normally establish concealed launch sites
+  within forested terrain.
+
+Known Weaknesses:
+  - Requires GPS synchronization before launch.
+  - Navigation computer vulnerable during synchronization.
+  - Fuel storage facility contains temperature-sensitive
+    oxidizer compounds.
+  - Reload convoy scheduled every 14 days.
+
+Dependencies:
+  Fuel Depot:        FUEL-19
+  Radar Site:        RDR-07
+  Command Node:      CMD-02
+
+Recent Deployments:
+  2026-05-13  Sector Delta
+  2026-06-01  Sector Echo
+  2026-07-21  Sector Delta
+
+Assessment:
+  Destruction of fuel depot FUEL-19 is expected to reduce
+  launch readiness by approximately 70%.
+
+ANALYST:
+  C. Harper
+
+END OF DOCUMENT
