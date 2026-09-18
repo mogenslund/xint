@@ -1,0 +1,502 @@
+PASSPORT_NO,FULL_NAME,ROLE,EMBASSY,EMERGENCY_FREQ_MHZ,CLEARANCE
+US-545399X,Nikolai Chen,First Secretary,United Kingdom,119.5,Level 3
+CN-406841B,Carlos Koval,Military Attaché,Ostania,162.3,Level 1
+RU-478165C,Gaston Smith,First Secretary,United States,124.4,Level 3
+CN-589435B,Sarah Koval,First Secretary,United States,117.8,Level 2
+JP-820905B,Gaston Smith,Ambassador,Federal Republic of Germany,176.6,Level 1
+CN-782248A,Sarah Smith,Counselor,Ostania,140.3,Level 4
+JP-121973A,Carlos Vance,Liaison Officer,Westalis,183.0,Level 5
+RU-716713A,Sarah Müller,Liaison Officer,Empire of Japan,199.8,Level 3
+UK-441426B,Michael Novak,Ambassador,Federal Republic of Germany,159.0,Level 3
+RU-340156X,Arjun Smith,Liaison Officer,United States,183.1,Level 1
+UK-988144X,Gaston Smith,Counselor,United States,115.7,Level 3
+RU-607918B,Sophia Zheng,Attaché,Ostania,118.1,Level 1
+CN-570513X,Hans Garcia,Attaché,Federal Republic of Germany,144.8,Level 1
+FR-125248B,Pierre Chen,Counselor,Westalis,168.1,Level 4
+RU-295456X,Elena Zheng,Military Attaché,United States,153.1,Level 3
+FR-287567A,Nikolai Zheng,Attaché,Federal Republic of Germany,145.4,Level 3
+DE-230200X,Michael Dubois,Attaché,United Kingdom,168.4,Level 2
+FR-473780C,Sophia Zheng,First Secretary,Federal Republic of Germany,190.2,Level 1
+UK-670150B,Nikolai Haddad,Ambassador,Westalis,153.4,Level 3
+FR-193601C,Fatima Smith,Ambassador,Empire of Japan,102.4,Level 1
+UK-107441A,Elena Smith,Attaché,Federal Republic of Germany,168.6,Level 3
+US-279774A,Sophia Chen,Counselor,United Kingdom,148.5,Level 5
+RU-862673C,Pierre Müller,Liaison Officer,Westalis,105.6,Level 5
+CN-321164X,Pierre Garcia,Military Attaché,Westalis,114.6,Level 5
+RU-612956C,Arjun Dubois,First Secretary,United Kingdom,184.2,Level 4
+CN-213682A,Sophia Garcia,First Secretary,Republic of France,178.4,Level 4
+US-377404B,Elena Patel,Liaison Officer,Federal Republic of Germany,111.4,Level 2
+FR-378621B,Hans Dubois,Military Attaché,Empire of Japan,150.7,Level 2
+DE-819627B,Sophia Vance,Ambassador,United States,112.0,Level 5
+UK-746845C,Hans Smith,Liaison Officer,Westalis,144.1,Level 1
+US-517480B,Sarah Patel,Counselor,Westalis,115.5,Level 5
+FR-195811A,Nikolai Garcia,Attaché,Federal Republic of Germany,137.3,Level 3
+DE-135300C,Nikolai Zheng,Counselor,United Kingdom,195.6,Level 2
+US-293408A,John Haddad,Liaison Officer,Federal Republic of Germany,130.5,Level 3
+RU-386539C,Pierre Müller,Attaché,Republic of France,177.6,Level 4
+CN-553544C,Sophia Koval,First Secretary,Empire of Japan,189.0,Level 2
+DE-683402X,Fatima Volkov,Military Attaché,Empire of Japan,102.0,Level 1
+UK-273607C,Hans Müller,Counselor,United Kingdom,166.5,Level 5
+FR-244560A,Sophia Koval,First Secretary,United States,107.1,Level 1
+US-288646B,Nikolai Chen,First Secretary,United Kingdom,161.5,Level 4
+RU-618326C,Carlos Müller,Counselor,Ostania,116.2,Level 2
+DE-452089C,Wei Koval,Ambassador,Federal Republic of Germany,148.9,Level 3
+US-487829B,Hans Dubois,Attaché,Ostania,114.8,Level 2
+FR-442068B,Elena Garcia,First Secretary,Westalis,126.7,Level 3
+US-925512A,Sophia Patel,Military Attaché,United Kingdom,113.4,Level 5
+RU-578637C,Arjun Dubois,Ambassador,Federal Republic of Germany,173.3,Level 3
+FR-601456C,Arjun Haddad,Liaison Officer,United States,146.2,Level 2
+UK-901174A,Hans Haddad,Attaché,Empire of Japan,175.7,Level 1
+US-609595A,Sarah Patel,Liaison Officer,Federal Republic of Germany,176.3,Level 1
+JP-370866B,Sophia Müller,Counselor,Westalis,141.4,Level 5
+JP-458475A,Fatima Novak,Attaché,Republic of France,195.4,Level 2
+FR-849552A,Michael Müller,Liaison Officer,Federal Republic of Germany,106.3,Level 2
+RU-313594X,John Haddad,Attaché,Empire of Japan,196.2,Level 4
+FR-220215A,Gaston Zheng,Counselor,United Kingdom,134.9,Level 4
+JP-174919C,Gaston Smith,Military Attaché,Federal Republic of Germany,120.9,Level 4
+JP-163415C,Michael Volkov,Attaché,Ostania,180.1,Level 4
+RU-647528A,Sarah Chen,Military Attaché,United States,131.4,Level 3
+DE-422943A,Wei Koval,Military Attaché,Ostania,174.5,Level 1
+UK-414526B,Michael Zheng,Counselor,Republic of France,147.3,Level 3
+JP-937927X,Wei Haddad,First Secretary,United States,174.2,Level 4
+CN-581991C,Sophia Garcia,Liaison Officer,Empire of Japan,155.3,Level 4
+UK-189819X,Gaston Smith,First Secretary,Empire of Japan,118.8,Level 3
+RU-753895B,Sophia Chen,Military Attaché,Westalis,109.4,Level 2
+CN-452814X,Wei Garcia,Ambassador,Empire of Japan,101.7,Level 2
+DE-908799B,Sophia Dubois,Military Attaché,United States,164.8,Level 2
+UK-593361B,John Dubois,Ambassador,Empire of Japan,147.4,Level 3
+RU-372756A,Sophia Vance,First Secretary,Republic of France,112.7,Level 3
+FR-994120A,Gaston Dubois,Attaché,Republic of France,142.8,Level 4
+UK-248395B,Sarah Müller,Liaison Officer,Federal Republic of Germany,186.7,Level 5
+UK-120598C,Fatima Haddad,First Secretary,Ostania,110.6,Level 2
+CN-261995B,Sarah Zheng,Military Attaché,United Kingdom,131.5,Level 1
+JP-468135A,Carlos Müller,Military Attaché,Empire of Japan,161.9,Level 4
+RU-607470X,Wei Garcia,First Secretary,Westalis,137.0,Level 2
+JP-921849A,Pierre Vance,Ambassador,Federal Republic of Germany,198.8,Level 4
+JP-480445C,Sarah Patel,Attaché,United Kingdom,169.7,Level 2
+US-484034B,Fatima Smith,Liaison Officer,United Kingdom,177.1,Level 1
+US-960843C,Sophia Haddad,Liaison Officer,United Kingdom,113.6,Level 5
+US-906127X,Carlos Koval,First Secretary,Federal Republic of Germany,130.2,Level 5
+US-923064A,Gaston Smith,Military Attaché,Westalis,136.2,Level 4
+US-690881X,Wei Vance,First Secretary,United Kingdom,153.6,Level 1
+CN-796351B,Pierre Haddad,First Secretary,Empire of Japan,192.7,Level 1
+UK-812594B,Arjun Garcia,Counselor,United Kingdom,154.3,Level 3
+JP-211181C,Pierre Chen,First Secretary,Ostania,130.7,Level 5
+JP-594922B,Sarah Vance,Counselor,Federal Republic of Germany,104.3,Level 5
+UK-989093B,Carlos Dubois,First Secretary,Federal Republic of Germany,116.6,Level 4
+RU-128584A,Pierre Koval,Counselor,Westalis,142.3,Level 4
+DE-552243A,Sarah Vance,Liaison Officer,Empire of Japan,135.6,Level 3
+CN-616573B,Nikolai Novak,Ambassador,Westalis,117.5,Level 3
+FR-228240B,Sophia Chen,Liaison Officer,United States,178.5,Level 5
+DE-702262B,Sarah Chen,Counselor,Republic of France,181.9,Level 3
+UK-428004A,Carlos Patel,Attaché,Empire of Japan,115.9,Level 5
+FR-851237X,Wei Haddad,Liaison Officer,Empire of Japan,130.0,Level 5
+DE-264904A,Sophia Koval,Military Attaché,Westalis,159.4,Level 2
+CN-862153C,Sophia Zheng,First Secretary,Ostania,182.5,Level 3
+CN-198903A,Gaston Volkov,Ambassador,Westalis,103.2,Level 1
+JP-681281C,Wei Vance,Military Attaché,Ostania,147.9,Level 3
+JP-383303C,Gaston Chen,Counselor,Republic of France,142.4,Level 3
+US-656033C,Nikolai Müller,Military Attaché,Ostania,198.2,Level 4
+DE-807303X,Gaston Smith,Ambassador,Federal Republic of Germany,104.5,Level 4
+CN-212787B,Hans Dubois,Ambassador,United Kingdom,164.6,Level 4
+RU-921750B,Sarah Novak,Ambassador,Westalis,110.7,Level 1
+RU-154244B,Arjun Chen,Military Attaché,Ostania,156.1,Level 2
+CN-592088A,Fatima Müller,Ambassador,Ostania,179.4,Level 5
+UK-536900X,Nikolai Patel,Liaison Officer,Republic of France,153.0,Level 4
+JP-642205X,Arjun Smith,First Secretary,Republic of France,106.5,Level 5
+CN-906020B,Sophia Patel,Attaché,Ostania,183.7,Level 4
+RU-690852X,Pierre Vance,Liaison Officer,Federal Republic of Germany,121.9,Level 2
+UK-501620A,Nikolai Koval,Attaché,Empire of Japan,191.7,Level 3
+US-191030A,Michael Chen,Liaison Officer,Westalis,181.7,Level 4
+US-579640A,Michael Müller,Liaison Officer,United States,191.1,Level 2
+FR-361491X,Michael Novak,Attaché,Federal Republic of Germany,172.8,Level 1
+JP-175071X,Elena Patel,Liaison Officer,Empire of Japan,190.7,Level 2
+UK-134127C,Michael Koval,Counselor,United Kingdom,106.1,Level 3
+DE-725020C,Pierre Garcia,Military Attaché,Ostania,142.0,Level 1
+JP-162269B,Sarah Koval,Ambassador,Empire of Japan,162.1,Level 2
+DE-741251C,Elena Koval,Military Attaché,Westalis,138.2,Level 1
+US-687356A,Sophia Patel,Ambassador,Ostania,117.3,Level 5
+FR-754158B,Sophia Dubois,Ambassador,Empire of Japan,125.4,Level 4
+US-901798B,Arjun Smith,Military Attaché,Republic of France,128.3,Level 4
+RU-420156B,Pierre Chen,Counselor,Westalis,153.7,Level 5
+CN-728236C,Fatima Garcia,Counselor,United States,177.4,Level 1
+FR-762503C,Carlos Patel,Military Attaché,United States,142.9,Level 2
+CN-318427B,Sarah Müller,Military Attaché,Republic of France,113.7,Level 5
+DE-534052B,Sophia Garcia,Attaché,United States,177.5,Level 2
+JP-895715A,Gaston Koval,Liaison Officer,Republic of France,151.6,Level 4
+US-297438B,Carlos Dubois,Liaison Officer,Federal Republic of Germany,176.2,Level 1
+RU-628486B,Hans Zheng,Ambassador,Ostania,101.1,Level 3
+FR-680573A,Elena Koval,First Secretary,Federal Republic of Germany,150.6,Level 4
+DE-397510B,Nikolai Vance,Military Attaché,United States,184.5,Level 3
+RU-382709C,Arjun Vance,Military Attaché,Federal Republic of Germany,157.2,Level 3
+RU-899765C,John Chen,Counselor,Republic of France,111.1,Level 2
+US-115697B,Hans Vance,Ambassador,United States,181.8,Level 1
+US-888961A,Nikolai Haddad,First Secretary,Republic of France,163.9,Level 1
+DE-172896A,Hans Volkov,Military Attaché,Empire of Japan,133.0,Level 4
+DE-854355C,Fatima Müller,Ambassador,Westalis,180.8,Level 3
+RU-323092B,Carlos Novak,First Secretary,Empire of Japan,113.9,Level 4
+JP-782547B,Gaston Novak,First Secretary,Republic of France,137.7,Level 1
+FR-788372A,Nikolai Garcia,First Secretary,United Kingdom,190.4,Level 5
+JP-547070C,Sarah Koval,Ambassador,Ostania,143.2,Level 4
+US-248205C,Wei Haddad,Military Attaché,Westalis,119.9,Level 2
+UK-176971C,Elena Haddad,Liaison Officer,United Kingdom,161.2,Level 1
+DE-281001A,Gaston Vance,Ambassador,United Kingdom,197.2,Level 1
+UK-638255X,Pierre Garcia,Attaché,United Kingdom,187.6,Level 1
+JP-601233X,Nikolai Patel,Ambassador,Republic of France,138.8,Level 3
+RU-466078C,Fatima Chen,Counselor,Westalis,169.6,Level 4
+CN-285833A,Pierre Dubois,Attaché,United States,190.3,Level 4
+CN-428999A,Hans Smith,Attaché,Empire of Japan,196.1,Level 3
+US-391869X,Carlos Zheng,Ambassador,Federal Republic of Germany,189.4,Level 2
+JP-792765C,Nikolai Novak,Counselor,Empire of Japan,106.7,Level 3
+DE-277491C,Arjun Zheng,Military Attaché,Ostania,133.9,Level 3
+UK-766944B,Gaston Smith,Liaison Officer,Empire of Japan,180.5,Level 4
+UK-691256A,Wei Novak,Liaison Officer,Federal Republic of Germany,155.0,Level 1
+CN-115345B,Arjun Dubois,Attaché,Republic of France,175.6,Level 2
+FR-821138C,Elena Zheng,Ambassador,Republic of France,122.0,Level 5
+FR-814021B,Gaston Koval,Military Attaché,United Kingdom,192.8,Level 4
+FR-762804B,John Zheng,Military Attaché,Empire of Japan,160.6,Level 2
+CN-276829A,Sarah Vance,Attaché,Empire of Japan,132.1,Level 5
+FR-769959A,Sophia Patel,Liaison Officer,Westalis,184.8,Level 3
+CN-270921C,Nikolai Volkov,Liaison Officer,United States,110.4,Level 5
+CN-333003X,Nikolai Patel,Attaché,Ostania,199.3,Level 5
+JP-577846A,Elena Haddad,Attaché,United Kingdom,103.7,Level 1
+JP-781487B,Fatima Novak,Counselor,United Kingdom,183.2,Level 4
+CN-684277C,Fatima Haddad,First Secretary,United Kingdom,166.2,Level 4
+US-968210C,Pierre Garcia,First Secretary,United States,185.9,Level 4
+CN-544643X,Elena Chen,Ambassador,Federal Republic of Germany,101.0,Level 1
+RU-867555X,Hans Dubois,Military Attaché,Ostania,119.1,Level 1
+DE-364122C,Fatima Vance,Military Attaché,Westalis,104.4,Level 2
+JP-747799B,Nikolai Zheng,Military Attaché,Westalis,189.9,Level 3
+CN-884975C,Wei Chen,Counselor,Empire of Japan,188.7,Level 1
+FR-590616A,Elena Haddad,Counselor,United States,141.3,Level 1
+UK-148628A,Sarah Müller,Ambassador,Federal Republic of Germany,140.9,Level 4
+CN-585807C,Fatima Patel,Attaché,United States,185.5,Level 1
+JP-870279X,Arjun Garcia,Liaison Officer,Ostania,116.5,Level 5
+FR-689033A,Wei Novak,First Secretary,United Kingdom,156.4,Level 1
+CN-665391X,John Müller,First Secretary,Republic of France,103.1,Level 2
+DE-921563A,Hans Novak,First Secretary,Federal Republic of Germany,110.1,Level 5
+DE-203446C,Sophia Smith,First Secretary,Westalis,188.2,Level 4
+FR-243871B,Hans Novak,Counselor,Ostania,154.2,Level 1
+DE-716742C,Hans Smith,Ambassador,United Kingdom,121.5,Level 3
+US-253474C,Arjun Smith,Counselor,Republic of France,194.1,Level 2
+US-100640A,Hans Haddad,Counselor,Federal Republic of Germany,108.1,Level 5
+CN-265268B,Elena Haddad,Liaison Officer,United States,114.4,Level 5
+UK-498423X,Sophia Zheng,Liaison Officer,United Kingdom,120.8,Level 2
+JP-783172C,Wei Chen,Military Attaché,Westalis,191.5,Level 5
+US-215093X,Sarah Patel,Liaison Officer,Westalis,195.5,Level 5
+US-893106X,Wei Garcia,First Secretary,Federal Republic of Germany,171.1,Level 5
+FR-335104A,Pierre Koval,Attaché,Republic of France,153.3,Level 3
+FR-599357X,Sophia Koval,Ambassador,United States,176.7,Level 5
+FR-104240A,Sarah Müller,Military Attaché,Federal Republic of Germany,134.6,Level 4
+RU-102699A,Gaston Smith,First Secretary,Republic of France,100.3,Level 5
+RU-819230X,Gaston Smith,Ambassador,United Kingdom,179.2,Level 2
+UK-594504C,John Garcia,Military Attaché,United States,172.6,Level 5
+UK-778825X,Arjun Koval,First Secretary,Empire of Japan,167.7,Level 1
+CN-592095C,Fatima Müller,First Secretary,United Kingdom,178.2,Level 3
+JP-480034C,Hans Smith,First Secretary,Ostania,145.0,Level 1
+CN-781724B,Fatima Haddad,Counselor,Westalis,156.7,Level 1
+JP-989722B,Wei Patel,First Secretary,Federal Republic of Germany,102.3,Level 1
+CN-186693A,Elena Volkov,First Secretary,United Kingdom,151.8,Level 4
+UK-173393C,Arjun Dubois,First Secretary,United States,188.1,Level 1
+RU-394160C,Michael Dubois,Attaché,United Kingdom,137.1,Level 1
+UK-302909C,John Müller,Military Attaché,Federal Republic of Germany,178.8,Level 3
+CN-570466X,Gaston Müller,Counselor,Empire of Japan,144.3,Level 1
+UK-211116C,Fatima Koval,Liaison Officer,United Kingdom,129.4,Level 3
+RU-975980B,Arjun Chen,Attaché,United States,158.7,Level 2
+JP-736507C,Wei Koval,First Secretary,United States,140.1,Level 2
+RU-676661B,Pierre Chen,First Secretary,Republic of France,197.5,Level 1
+FR-270545A,Elena Dubois,Counselor,Westalis,140.2,Level 1
+US-313392X,Carlos Smith,Counselor,Westalis,102.7,Level 4
+DE-475210C,Arjun Koval,First Secretary,Ostania,190.9,Level 3
+DE-608948X,Sophia Dubois,Counselor,United States,105.7,Level 5
+DE-388555B,Sophia Müller,Attaché,Westalis,129.7,Level 1
+CN-759174C,Carlos Müller,Counselor,Ostania,138.3,Level 1
+FR-230219X,Wei Novak,Military Attaché,Republic of France,177.0,Level 4
+DE-585911B,Pierre Müller,First Secretary,Westalis,149.7,Level 2
+UK-245146B,John Garcia,Military Attaché,Empire of Japan,135.5,Level 2
+US-653983C,Wei Haddad,Ambassador,Republic of France,114.9,Level 3
+US-660328B,Fatima Haddad,Attaché,Empire of Japan,115.1,Level 2
+UK-513163A,Carlos Patel,Counselor,Westalis,123.3,Level 1
+CN-652723X,Elena Chen,Counselor,Empire of Japan,186.0,Level 2
+US-904048A,Nikolai Patel,Liaison Officer,United Kingdom,137.5,Level 1
+CN-748026C,Carlos Vance,Attaché,United Kingdom,193.2,Level 1
+JP-871442X,Sarah Patel,Attaché,Ostania,125.6,Level 2
+FR-707801B,Hans Chen,First Secretary,Westalis,175.5,Level 5
+JP-310732B,Carlos Garcia,Ambassador,Westalis,160.4,Level 5
+CN-118130A,Elena Volkov,Ambassador,Westalis,123.6,Level 1
+US-344598B,Nikolai Haddad,Counselor,Federal Republic of Germany,173.0,Level 4
+UK-536736B,Sophia Smith,Attaché,Empire of Japan,157.3,Level 5
+CN-553248B,Carlos Zheng,Liaison Officer,Ostania,165.1,Level 3
+RU-533098C,Wei Patel,Liaison Officer,Empire of Japan,163.1,Level 2
+FR-177203C,John Smith,Ambassador,Empire of Japan,174.1,Level 5
+CN-824583X,Gaston Volkov,Ambassador,United States,123.4,Level 3
+FR-750730C,Carlos Smith,Liaison Officer,United States,145.8,Level 5
+US-468003B,Hans Smith,Liaison Officer,Ostania,151.1,Level 2
+JP-402341B,Elena Dubois,First Secretary,Federal Republic of Germany,177.9,Level 5
+US-649136B,Carlos Zheng,Attaché,Ostania,105.2,Level 1
+RU-193963X,Wei Dubois,Ambassador,Federal Republic of Germany,184.9,Level 1
+DE-585077B,Gaston Smith,First Secretary,Westalis,127.5,Level 3
+UK-347144C,Sophia Koval,Attaché,Republic of France,139.1,Level 2
+DE-466551B,John Müller,Counselor,Republic of France,188.5,Level 1
+CN-850319B,Carlos Smith,Ambassador,Federal Republic of Germany,132.9,Level 2
+RU-245644X,Pierre Chen,Counselor,Federal Republic of Germany,151.0,Level 5
+UK-739651A,John Smith,Counselor,Federal Republic of Germany,129.1,Level 1
+DE-604880X,Arjun Chen,First Secretary,Republic of France,133.8,Level 5
+UK-800534A,Fatima Volkov,Attaché,United Kingdom,141.0,Level 2
+JP-139116B,Michael Patel,Counselor,Federal Republic of Germany,181.0,Level 4
+US-657701C,Hans Zheng,Attaché,United Kingdom,145.5,Level 5
+US-108482X,Gaston Vance,Attaché,Federal Republic of Germany,135.1,Level 1
+US-548832X,Arjun Dubois,Counselor,Federal Republic of Germany,150.9,Level 2
+DE-766079B,Arjun Smith,Military Attaché,Empire of Japan,195.0,Level 3
+RU-215360X,Gaston Garcia,First Secretary,Westalis,198.9,Level 4
+FR-232392X,Sarah Chen,First Secretary,Empire of Japan,198.7,Level 1
+DE-491695B,John Dubois,Military Attaché,Republic of France,133.2,Level 3
+UK-314625A,Fatima Müller,Counselor,Ostania,168.7,Level 2
+UK-256479B,Gaston Zheng,Liaison Officer,Republic of France,113.5,Level 4
+UK-608772C,Michael Haddad,Attaché,United Kingdom,152.9,Level 2
+US-887615B,Pierre Chen,Ambassador,Empire of Japan,150.3,Level 4
+JP-510219A,Arjun Smith,First Secretary,Westalis,139.9,Level 5
+US-222522A,Sophia Zheng,Counselor,United Kingdom,166.3,Level 4
+DE-603876B,Gaston Zheng,Liaison Officer,Ostania,139.8,Level 2
+JP-876905C,Nikolai Chen,Ambassador,Westalis,152.8,Level 1
+US-165231X,Elena Zheng,First Secretary,Empire of Japan,109.0,Level 5
+DE-802558C,Hans Novak,Ambassador,Federal Republic of Germany,125.8,Level 1
+FR-770824B,Sarah Volkov,Attaché,Ostania,103.8,Level 4
+UK-303886A,Arjun Patel,Military Attaché,Westalis,107.2,Level 1
+FR-560370X,John Koval,Military Attaché,Republic of France,175.4,Level 4
+DE-344870X,Michael Müller,Military Attaché,United Kingdom,177.2,Level 1
+CN-541248X,Sophia Patel,Ambassador,Ostania,138.6,Level 1
+US-834083C,Michael Koval,Counselor,Republic of France,172.3,Level 4
+JP-479846X,Carlos Volkov,Military Attaché,United Kingdom,196.3,Level 5
+US-390470A,Michael Müller,Military Attaché,Federal Republic of Germany,164.9,Level 2
+US-303865A,Arjun Novak,Liaison Officer,United States,179.6,Level 5
+US-584070X,Fatima Müller,Liaison Officer,United States,195.7,Level 1
+JP-456920A,Arjun Zheng,Ambassador,Westalis,163.5,Level 4
+US-922167B,Sarah Smith,Ambassador,Westalis,179.3,Level 2
+FR-692439X,Wei Patel,Attaché,Federal Republic of Germany,176.9,Level 3
+FR-514943X,Elena Volkov,Counselor,Ostania,193.7,Level 5
+FR-205990C,Pierre Chen,First Secretary,United States,111.7,Level 1
+FR-755927B,Arjun Müller,Ambassador,Federal Republic of Germany,183.9,Level 4
+RU-865970A,Hans Chen,Ambassador,Westalis,180.3,Level 4
+RU-316040C,Nikolai Koval,Military Attaché,United Kingdom,156.8,Level 5
+CN-614841C,Sarah Garcia,Attaché,Republic of France,109.2,Level 2
+UK-885757C,Sarah Novak,Ambassador,Ostania,176.8,Level 4
+US-738736C,Carlos Vance,Ambassador,Republic of France,126.6,Level 3
+DE-266928C,Sarah Müller,First Secretary,Ostania,146.3,Level 4
+CN-566123B,Hans Dubois,Liaison Officer,United Kingdom,103.9,Level 1
+JP-195308A,Pierre Chen,Liaison Officer,Republic of France,129.8,Level 5
+CN-881476B,Fatima Müller,Ambassador,United States,179.9,Level 2
+FR-764239A,Sophia Garcia,Counselor,Empire of Japan,101.4,Level 1
+CN-547160C,Hans Garcia,Ambassador,Ostania,100.2,Level 1
+FR-341427A,Hans Patel,Ambassador,Federal Republic of Germany,193.5,Level 5
+FR-620080B,Nikolai Haddad,Counselor,Empire of Japan,144.0,Level 4
+FR-825593B,John Chen,Liaison Officer,Empire of Japan,128.9,Level 3
+CN-401347X,Nikolai Patel,Counselor,United States,103.0,Level 1
+JP-459793B,Gaston Zheng,Attaché,Empire of Japan,194.7,Level 5
+JP-786715C,Elena Novak,Counselor,Empire of Japan,117.9,Level 5
+UK-777526X,Michael Patel,First Secretary,Empire of Japan,123.8,Level 3
+UK-753399C,Michael Novak,Attaché,United Kingdom,196.5,Level 3
+CN-963264X,Sarah Dubois,First Secretary,United States,127.9,Level 1
+FR-996233A,Fatima Müller,Military Attaché,Federal Republic of Germany,105.3,Level 1
+UK-323778A,Hans Chen,Counselor,Ostania,124.6,Level 1
+RU-716995X,Arjun Garcia,Attaché,Ostania,196.4,Level 2
+US-281532A,Arjun Haddad,First Secretary,United Kingdom,198.3,Level 5
+CN-591304X,John Volkov,First Secretary,Empire of Japan,120.0,Level 2
+DE-181217C,Fatima Haddad,Counselor,United States,117.4,Level 1
+JP-577494X,Pierre Koval,Ambassador,United Kingdom,171.8,Level 3
+DE-140764A,Sarah Koval,Attaché,United Kingdom,154.7,Level 5
+UK-444100B,Hans Volkov,Military Attaché,United Kingdom,151.9,Level 1
+FR-772531B,Pierre Dubois,Attaché,Federal Republic of Germany,105.1,Level 3
+UK-267440X,Arjun Patel,Attaché,United Kingdom,160.0,Level 1
+DE-570512B,Wei Volkov,Ambassador,Republic of France,148.6,Level 4
+DE-869317B,Elena Chen,Counselor,United States,141.1,Level 3
+RU-971085X,Gaston Koval,Liaison Officer,United States,193.4,Level 1
+UK-781685X,Nikolai Dubois,First Secretary,Ostania,110.0,Level 4
+FR-354724C,Arjun Koval,Military Attaché,Republic of France,159.6,Level 5
+FR-118456A,Carlos Haddad,Ambassador,Republic of France,117.6,Level 5
+FR-486406X,Gaston Patel,Counselor,Republic of France,181.4,Level 3
+DE-653523C,Gaston Vance,Attaché,Empire of Japan,166.0,Level 5
+US-782940B,Elena Haddad,Attaché,Republic of France,192.1,Level 3
+JP-536131B,Sophia Zheng,First Secretary,Empire of Japan,143.7,Level 1
+JP-112848X,Fatima Haddad,Ambassador,United Kingdom,132.7,Level 1
+CN-968424C,Hans Garcia,Military Attaché,Empire of Japan,108.0,Level 1
+UK-832566X,Hans Müller,Liaison Officer,Empire of Japan,112.4,Level 4
+FR-637443B,Wei Zheng,Military Attaché,United States,121.8,Level 3
+RU-202460A,Hans Zheng,Attaché,United States,109.8,Level 2
+CN-340531A,Pierre Chen,Counselor,Empire of Japan,155.7,Level 4
+FR-659683B,Nikolai Chen,Counselor,United States,185.1,Level 1
+UK-892483B,Michael Volkov,Counselor,Empire of Japan,100.6,Level 3
+RU-246088X,Gaston Smith,Ambassador,Empire of Japan,128.5,Level 5
+DE-582884B,Michael Patel,Liaison Officer,United Kingdom,124.5,Level 3
+JP-534172X,Wei Dubois,First Secretary,United States,164.2,Level 2
+DE-702107X,Carlos Vance,First Secretary,Empire of Japan,168.5,Level 2
+RU-435422C,Wei Novak,Liaison Officer,United States,197.3,Level 4
+CN-274464X,Wei Zheng,Ambassador,Republic of France,116.3,Level 2
+FR-696517A,Elena Koval,Ambassador,Federal Republic of Germany,194.3,Level 1
+RU-190608A,Nikolai Smith,Military Attaché,Republic of France,139.2,Level 2
+RU-595757X,John Patel,Military Attaché,Federal Republic of Germany,106.9,Level 1
+FR-346604B,Arjun Novak,Ambassador,United States,158.4,Level 5
+JP-561441X,John Vance,Ambassador,Empire of Japan,124.8,Level 3
+DE-435866X,Elena Zheng,First Secretary,Empire of Japan,141.9,Level 4
+FR-900989A,Fatima Haddad,Ambassador,United Kingdom,118.7,Level 1
+UK-341850B,Carlos Müller,Attaché,United States,145.7,Level 3
+FR-228260C,Sarah Zheng,Attaché,Ostania,124.3,Level 4
+FR-596277A,Sarah Zheng,Attaché,Ostania,163.0,Level 4
+CN-360262C,Sophia Dubois,Liaison Officer,United States,122.6,Level 3
+UK-508106A,Hans Vance,Counselor,Federal Republic of Germany,171.5,Level 3
+JP-610911C,Hans Garcia,Liaison Officer,Republic of France,129.0,Level 4
+DE-590793C,Wei Haddad,Ambassador,United States,196.7,Level 2
+DE-399321C,Pierre Haddad,Counselor,Ostania,152.1,Level 5
+UK-456411A,Pierre Patel,Military Attaché,Republic of France,148.7,Level 1
+JP-685985B,John Haddad,First Secretary,United Kingdom,135.8,Level 5
+JP-391665X,Pierre Koval,Ambassador,Westalis,122.1,Level 1
+UK-707006B,Pierre Volkov,Counselor,Ostania,193.0,Level 1
+DE-789877A,Sophia Müller,First Secretary,Westalis,159.7,Level 5
+UK-630907B,Gaston Chen,Attaché,Empire of Japan,169.1,Level 1
+DE-102045A,Carlos Garcia,Attaché,Republic of France,150.8,Level 4
+UK-531276B,Nikolai Zheng,First Secretary,United States,172.5,Level 3
+DE-203225C,Gaston Smith,Military Attaché,United States,109.3,Level 3
+DE-611967B,Michael Zheng,Liaison Officer,United States,163.3,Level 5
+RU-748281A,Pierre Haddad,First Secretary,Republic of France,149.0,Level 2
+UK-131649A,Arjun Volkov,Liaison Officer,United Kingdom,136.5,Level 3
+UK-804367X,Hans Zheng,Liaison Officer,United States,138.7,Level 1
+JP-182274A,Wei Koval,First Secretary,Republic of France,191.4,Level 1
+FR-192229B,Sophia Smith,First Secretary,Westalis,193.1,Level 5
+US-436003B,Wei Koval,Liaison Officer,Westalis,157.6,Level 5
+DE-518529C,Fatima Koval,First Secretary,United States,130.3,Level 5
+UK-278737X,Elena Patel,Attaché,United Kingdom,101.2,Level 4
+RU-953274A,Michael Smith,Attaché,Ostania,130.9,Level 5
+FR-651857C,Carlos Zheng,Military Attaché,Westalis,155.9,Level 4
+CN-951429X,Sophia Smith,Attaché,Ostania,187.9,Level 3
+UK-705373B,Michael Dubois,Liaison Officer,Westalis,115.6,Level 5
+JP-658432B,Hans Volkov,Liaison Officer,Federal Republic of Germany,131.0,Level 4
+US-275327A,Sophia Chen,Attaché,Federal Republic of Germany,187.7,Level 5
+JP-258463B,Fatima Haddad,Military Attaché,United States,113.3,Level 4
+UK-562903X,Michael Smith,Ambassador,Federal Republic of Germany,165.4,Level 2
+RU-772992C,Michael Zheng,Ambassador,Republic of France,164.5,Level 5
+RU-545338B,Nikolai Koval,First Secretary,Westalis,145.6,Level 5
+UK-407616X,Nikolai Chen,Counselor,Ostania,144.5,Level 2
+CN-267875X,Gaston Volkov,Liaison Officer,Federal Republic of Germany,166.8,Level 1
+FR-494646C,Michael Zheng,Attaché,Republic of France,129.2,Level 4
+DE-983576B,Carlos Koval,Liaison Officer,Republic of France,182.1,Level 5
+US-951899X,John Chen,Counselor,United Kingdom,173.2,Level 1
+JP-745008C,Pierre Novak,Ambassador,Ostania,106.0,Level 4
+RU-632621X,Nikolai Garcia,Attaché,United Kingdom,113.8,Level 2
+CN-638083B,Sophia Smith,Liaison Officer,Westalis,184.1,Level 5
+FR-194633B,Michael Garcia,Military Attaché,Republic of France,194.0,Level 4
+CN-453978X,Carlos Zheng,Ambassador,Westalis,125.5,Level 5
+JP-826354C,Michael Koval,Liaison Officer,Westalis,115.8,Level 4
+FR-708305X,Sophia Haddad,Ambassador,Republic of France,105.4,Level 2
+RU-394429C,Wei Novak,Liaison Officer,Republic of France,192.3,Level 2
+DE-582442X,Fatima Novak,First Secretary,Empire of Japan,120.7,Level 1
+RU-977485B,Pierre Zheng,Counselor,Westalis,141.6,Level 1
+CN-217747B,Sophia Garcia,Military Attaché,Westalis,106.2,Level 2
+UK-442566C,Sarah Novak,Military Attaché,Federal Republic of Germany,131.2,Level 3
+DE-680156C,Hans Chen,Ambassador,United States,182.4,Level 4
+CN-107308C,Pierre Patel,Ambassador,Empire of Japan,168.0,Level 5
+JP-887001X,Arjun Dubois,Attaché,United Kingdom,160.2,Level 3
+CN-131099C,Nikolai Chen,Counselor,United States,111.9,Level 2
+UK-832429C,Sophia Haddad,Counselor,Federal Republic of Germany,180.6,Level 4
+US-921443X,John Vance,Ambassador,United Kingdom,124.1,Level 4
+CN-421085B,Hans Müller,Liaison Officer,Ostania,104.0,Level 5
+US-475144C,Pierre Volkov,Liaison Officer,Empire of Japan,198.4,Level 1
+US-835595A,Hans Patel,Military Attaché,United States,121.3,Level 5
+DE-487390A,Elena Müller,First Secretary,United Kingdom,194.4,Level 5
+JP-963213X,Nikolai Volkov,Attaché,Ostania,172.4,Level 1
+JP-368413X,Sarah Chen,First Secretary,United Kingdom,187.3,Level 2
+UK-953163B,Sarah Chen,Liaison Officer,Empire of Japan,193.3,Level 4
+CN-955177X,John Vance,Attaché,Republic of France,118.6,Level 4
+JP-629810X,John Garcia,Counselor,Federal Republic of Germany,180.7,Level 1
+US-452248A,Pierre Vance,Liaison Officer,Westalis,145.2,Level 4
+UK-511811X,Fatima Volkov,Ambassador,Westalis,162.5,Level 1
+FR-341283X,Hans Volkov,Counselor,Empire of Japan,121.0,Level 3
+US-387134C,Nikolai Zheng,Ambassador,Westalis,191.9,Level 3
+RU-132328B,Elena Vance,Attaché,Westalis,159.2,Level 3
+RU-673672X,Carlos Novak,Military Attaché,Westalis,132.6,Level 4
+CN-415396C,John Müller,Military Attaché,Ostania,151.2,Level 4
+DE-539004X,Gaston Smith,Attaché,Westalis,156.3,Level 5
+US-257328B,Gaston Koval,First Secretary,United Kingdom,121.1,Level 5
+JP-743138B,Wei Haddad,Counselor,United States,184.4,Level 5
+RU-824943X,Gaston Vance,Ambassador,Ostania,103.3,Level 5
+DE-208225X,Carlos Dubois,Attaché,Republic of France,196.8,Level 4
+RU-763429B,Michael Müller,Liaison Officer,Republic of France,130.4,Level 1
+FR-365779X,Michael Patel,Liaison Officer,United Kingdom,173.8,Level 1
+FR-888824X,John Haddad,Military Attaché,Federal Republic of Germany,153.8,Level 5
+CN-201796B,Sarah Smith,Liaison Officer,Federal Republic of Germany,134.4,Level 3
+CN-617577C,Carlos Smith,Ambassador,Federal Republic of Germany,101.8,Level 3
+JP-663081C,Gaston Novak,Ambassador,United Kingdom,177.8,Level 1
+UK-874307B,John Müller,Military Attaché,Westalis,161.8,Level 5
+DE-610594A,Carlos Patel,Attaché,Republic of France,170.8,Level 4
+JP-698281X,John Dubois,Attaché,Republic of France,191.0,Level 3
+DE-550325B,Michael Volkov,Counselor,Westalis,173.9,Level 2
+US-131982B,Sophia Garcia,Attaché,Westalis,107.6,Level 4
+RU-336607A,Elena Haddad,Attaché,United States,153.9,Level 5
+RU-274887A,Pierre Chen,Ambassador,United States,121.6,Level 2
+RU-700845A,Hans Patel,First Secretary,Empire of Japan,104.9,Level 2
+JP-391975A,Sarah Patel,Counselor,Empire of Japan,176.5,Level 4
+CN-355330B,Carlos Dubois,First Secretary,Republic of France,154.4,Level 2
+DE-328065C,Wei Garcia,Counselor,United States,162.6,Level 2
+FR-181768C,Sarah Garcia,Military Attaché,United States,134.7,Level 1
+CN-264578X,Michael Zheng,Ambassador,Westalis,155.2,Level 2
+UK-645033B,Carlos Patel,First Secretary,United Kingdom,189.5,Level 3
+JP-562372X,Michael Garcia,First Secretary,Republic of France,165.6,Level 1
+CN-871304B,Nikolai Patel,Military Attaché,Ostania,108.8,Level 1
+DE-200371A,Pierre Zheng,Ambassador,Federal Republic of Germany,132.2,Level 3
+CN-349631A,Gaston Smith,Ambassador,United Kingdom,169.8,Level 5
+DE-905121B,Fatima Volkov,Liaison Officer,United Kingdom,109.6,Level 3
+UK-702795A,Sophia Volkov,First Secretary,Ostania,187.8,Level 2
+DE-476817B,Pierre Garcia,Liaison Officer,United States,197.1,Level 1
+DE-513291B,Gaston Müller,Counselor,Republic of France,157.9,Level 4
+DE-639608X,Carlos Zheng,First Secretary,Empire of Japan,132.5,Level 4
+RU-392695A,Fatima Chen,Counselor,Federal Republic of Germany,172.1,Level 3
+FR-847488X,Pierre Haddad,Liaison Officer,Federal Republic of Germany,150.0,Level 2
+CN-599400B,Sophia Chen,Counselor,Westalis,171.7,Level 1
+UK-144670X,Fatima Patel,Attaché,Republic of France,136.4,Level 5
+UK-282610C,John Chen,Liaison Officer,Westalis,103.4,Level 4
+JP-942210C,Arjun Koval,Ambassador,Empire of Japan,112.5,Level 4
+DE-420553B,Hans Zheng,Liaison Officer,Ostania,174.8,Level 1
+RU-774781A,Wei Smith,Attaché,Westalis,139.4,Level 1
+US-867301X,Arjun Koval,Ambassador,Ostania,120.1,Level 1
+UK-261504B,Carlos Patel,Attaché,Republic of France,160.1,Level 5
+FR-724561X,Gaston Zheng,Counselor,Federal Republic of Germany,106.6,Level 4
+CN-982669A,John Koval,Military Attaché,Westalis,126.5,Level 1
+CN-705263B,Fatima Novak,First Secretary,Republic of France,125.2,Level 5
+US-113993A,Nikolai Müller,Liaison Officer,United Kingdom,190.8,Level 3
+RU-111905B,Elena Dubois,Liaison Officer,United Kingdom,186.3,Level 3
+US-929366X,Fatima Volkov,Military Attaché,United States,134.8,Level 5
+DE-318057B,Sarah Zheng,Military Attaché,United States,155.5,Level 4
+FR-959738X,Wei Novak,Ambassador,United States,193.8,Level 3
+FR-512456B,Gaston Haddad,First Secretary,Empire of Japan,192.4,Level 5
+RU-521092A,Elena Volkov,Liaison Officer,Empire of Japan,130.6,Level 1
+DE-897330C,Hans Patel,Military Attaché,United Kingdom,172.0,Level 4
+DE-491187C,Arjun Haddad,Attaché,Ostania,181.5,Level 3
+CN-519979B,Sarah Müller,Liaison Officer,Ostania,138.0,Level 1
+FR-923190X,Sophia Vance,Attaché,Ostania,178.6,Level 3
+CN-447656B,John Zheng,Ambassador,Republic of France,183.4,Level 5
+US-944632C,Michael Novak,Liaison Officer,Republic of France,179.1,Level 3
+CN-728986A,Michael Volkov,First Secretary,United States,170.2,Level 2
+US-994450X,Arjun Dubois,Attaché,Republic of France,129.3,Level 3
+CN-105407B,Carlos Novak,Attaché,United States,118.4,Level 3
+FR-978149A,Pierre Dubois,Attaché,Ostania,120.2,Level 3
+DE-599875C,Elena Dubois,Military Attaché,United States,192.2,Level 5
+RU-892097X,Elena Volkov,First Secretary,Westalis,104.6,Level 3
+US-922626X,Pierre Koval,First Secretary,Ostania,125.3,Level 5
+JP-610472A,Elena Patel,Military Attaché,United Kingdom,143.9,Level 1
+DE-836082A,Michael Zheng,Military Attaché,Federal Republic of Germany,125.0,Level 4
+RU-323324X,Sophia Vance,Military Attaché,United States,170.6,Level 4
+RU-146734B,Michael Smith,Liaison Officer,Federal Republic of Germany,182.0,Level 2
+JP-411346X,Sarah Volkov,Military Attaché,United States,192.5,Level 5
+RU-323989X,Elena Garcia,Liaison Officer,Empire of Japan,157.8,Level 1
+JP-360186B,Nikolai Koval,Ambassador,United States,152.7,Level 5
+US-789081A,Nikolai Volkov,First Secretary,Ostania,108.7,Level 4
+JP-624201A,Pierre Novak,Military Attaché,Republic of France,134.5,Level 1
+FR-211734A,Pierre Volkov,Military Attaché,Empire of Japan,111.8,Level 5
+DE-181954X,Fatima Vance,Counselor,Federal Republic of Germany,114.2,Level 4
+JP-239283A,Sarah Novak,First Secretary,Federal Republic of Germany,192.6,Level 5
+DE-438351C,Gaston Koval,Ambassador,Empire of Japan,151.5,Level 4
+JP-301198B,Arjun Vance,Military Attaché,Westalis,143.1,Level 2
+UK-289871X,Sarah Müller,First Secretary,Empire of Japan,138.4,Level 2
+US-644252A,Carlos Koval,Attaché,United States,110.9,Level 2
+JP-625268X,Sophia Haddad,Military Attaché,Ostania,124.9,Level 1
+US-291909A,Elena Koval,First Secretary,Ostania,162.7,Level 4
+UK-449814C,John Haddad,Liaison Officer,Federal Republic of Germany,184.3,Level 4

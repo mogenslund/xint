@@ -1,0 +1,249 @@
+System startup initiated
+Listening to sockets 001-012
+2026-02-23 11:20 kernel: [  49699.271463] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-23 11:27 dockerd[1500]: Container db0ff99fdefe started
+2026-02-23 11:36 kernel: [  42185.969171] Out of memory: Kill process 16383 (python3) score 442 or sacrifice child
+2026-02-23 11:44 Receiving byte from socket 002 t
+2026-02-23 12:01 dockerd[1500]: Container 2c66db40a36c started
+2026-02-23 12:12 cron[1234]: (root) CMD (   /usr/local/bin/check_temp.sh)
+2026-02-23 12:29 dockerd[1500]: Container ab0f1e5f63d9 started
+2026-02-23 12:44 sshd[5678]: Invalid user guest from 10.0.0.176 port 61617
+2026-02-23 12:56 systemd[1]: Started Periodic Command Scheduler.
+2026-02-23 13:08 kernel: [  39299.942119] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-23 13:26 kernel: [  13113.314381] Out of memory: Kill process 9755 (chrome) score 68 or sacrifice child
+2026-02-23 13:43 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-23 13:49 dockerd[1500]: Container 73ac26459992 started
+2026-02-23 14:00 postfix/smtpd[2222]: connect from unknown[185.234.218.206]
+2026-02-23 14:11 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-23 14:21 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-23 14:35 kernel: [  10433.932715] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-23 14:43 systemd[1]: session-271.scope: Succeeded.
+2026-02-23 14:56 systemd[1]: Starting Daily apt download activities...
+2026-02-23 15:11 systemd-resolved[444]: Clock change detected. Flushing caches.
+2026-02-23 15:18 Receiving byte from socket 001 b
+2026-02-23 15:33 systemd-resolved[444]: Clock change detected. Flushing caches.
+2026-02-23 15:51 dockerd[1500]: Container a664c91edb3e started
+2026-02-23 16:03 kernel: [  8929.262063] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-23 16:19 Receiving byte from socket 001 e
+2026-02-23 16:21 systemd[1]: Starting Daily apt download activities...
+2026-02-23 16:38 systemd[1]: Started Periodic Command Scheduler.
+2026-02-23 16:53 Receiving byte from socket 002 i
+2026-02-23 17:06 systemd[1]: Started Periodic Command Scheduler.
+2026-02-23 17:07 systemd[1]: Starting Daily apt download activities...
+2026-02-23 17:13 sshd[5678]: Invalid user test from 10.0.0.142 port 12414
+2026-02-23 17:22 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-23 17:40 systemd-resolved[444]: Clock change detected. Flushing caches.
+2026-02-23 17:57 cron[1234]: (root) CMD (   /usr/local/bin/check_temp.sh)
+2026-02-23 18:12 smartd[555]: Device: /dev/sda, [SAT], SMART Usage Attributes Revision 1.0
+2026-02-23 18:18 Receiving byte from socket 002 y
+2026-02-23 18:22 NetworkManager[888]: <info>  [1685037] device (eth0): state change: activated -> deactivating
+2026-02-23 18:37 smartd[555]: Device: /dev/sda, [SAT], SMART Usage Attributes Revision 1.0
+2026-02-23 18:55 cron[1234]: (root) CMD (   /usr/local/bin/check_temp.sh)
+2026-02-23 18:58 kernel: [  11379.578732] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-23 19:16 kernel: [  31187.321319] Out of memory: Kill process 9334 (node) score 482 or sacrifice child
+2026-02-23 19:27 cron[1234]: (root) CMD (   /usr/local/bin/check_temp.sh)
+2026-02-23 19:30 sshd[5678]: Invalid user guest from 10.0.0.102 port 40100
+2026-02-23 19:31 Receiving byte from socket 009 u
+2026-02-23 19:42 Receiving byte from socket 003 t
+2026-02-23 19:56 kernel: [  11945.450927] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+2026-02-23 20:14 postfix/smtpd[2222]: connect from unknown[185.234.218.194]
+2026-02-23 20:25 sshd[5678]: Invalid user root from 10.0.0.122 port 56404
+2026-02-23 20:27 cron[1234]: (root) CMD (   /usr/local/bin/check_temp.sh)
+2026-02-23 20:34 systemd[1]: Started Docker Application Container Engine.
+2026-02-23 20:45 systemd[1]: Starting Daily apt download activities...
+2026-02-23 20:54 kernel: [  47740.189663] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+2026-02-23 21:00 systemd[1]: Starting Daily apt download activities...
+2026-02-23 21:10 Receiving byte from socket 003 t
+2026-02-23 21:25 kernel: [  45799.206335] usb 1-1: new high-speed USB device number 83 using xhci_hcd
+2026-02-23 21:31 kernel: [  27419.043594] usb 1-1: new high-speed USB device number 106 using xhci_hcd
+2026-02-23 21:42 systemd[1]: Started Periodic Command Scheduler.
+2026-02-23 21:50 Receiving byte from socket 012 n
+2026-02-23 22:07 kernel: [  4143.136469] TCP: request_sock_TCP: Possible SYN flooding on port 64620. Sending cookies.
+2026-02-23 22:17 sshd[5678]: Invalid user test from 10.0.0.117 port 63599
+2026-02-23 22:20 kernel: [  7377.975201] usb 1-1: new high-speed USB device number 45 using xhci_hcd
+2026-02-23 22:39 dockerd[1500]: Container aa24cb0e25cb started
+2026-02-23 22:57 kernel: [  19667.471110] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+2026-02-23 23:14 dockerd[1500]: Container fe5342626d3a started
+2026-02-23 23:18 kernel: [  29511.058220] TCP: request_sock_TCP: Possible SYN flooding on port 43299. Sending cookies.
+2026-02-23 23:23 Receiving byte from socket 008 d
+2026-02-23 23:39 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-23 23:42 sshd[5678]: Invalid user service from 10.0.0.93 port 14368
+2026-02-23 23:50 sshd[5678]: Invalid user service from 10.0.0.145 port 17983
+2026-02-24 00:04 auth: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.180
+2026-02-24 00:08 Receiving byte from socket 012 j
+2026-02-24 00:26 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-24 00:42 kernel: [  10934.078483] usb 1-1: new high-speed USB device number 84 using xhci_hcd
+2026-02-24 00:49 Receiving byte from socket 002 q
+2026-02-24 00:56 kernel: [  21193.300940] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-24 01:13 systemd[1]: Started Docker Application Container Engine.
+2026-02-24 01:29 Receiving byte from socket 009 t
+2026-02-24 01:32 systemd[1]: Started Docker Application Container Engine.
+2026-02-24 01:51 auth: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.161
+2026-02-24 02:08 Receiving byte from socket 004 t
+2026-02-24 02:27 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-24 02:36 systemd-resolved[444]: Clock change detected. Flushing caches.
+2026-02-24 02:43 systemd-resolved[444]: Clock change detected. Flushing caches.
+2026-02-24 03:01 auth: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.232
+2026-02-24 03:16 Receiving byte from socket 007 i
+2026-02-24 03:29 kernel: [  12672.857252] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+2026-02-24 03:43 kernel: [  40271.377872] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+2026-02-24 04:02 postfix/smtpd[2222]: connect from unknown[185.234.218.220]
+2026-02-24 04:15 systemd-resolved[444]: Clock change detected. Flushing caches.
+2026-02-24 04:29 Receiving byte from socket 011 f
+2026-02-24 04:37 smartd[555]: Device: /dev/sda, [SAT], SMART Usage Attributes Revision 1.0
+2026-02-24 04:54 apache2[999]: [error] [client 172.16.165.25] File does not exist: /var/www/html/favicon.ico
+2026-02-24 05:04 Receiving byte from socket 003 j
+2026-02-24 05:23 systemd-resolved[444]: Clock change detected. Flushing caches.
+2026-02-24 05:28 Receiving byte from socket 009 l
+2026-02-24 05:38 Receiving byte from socket 005 h
+2026-02-24 05:48 smartd[555]: Device: /dev/sda, [SAT], SMART Usage Attributes Revision 1.0
+2026-02-24 05:50 kernel: [  17164.785529] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+2026-02-24 06:07 apache2[999]: [error] [client 172.16.216.159] File does not exist: /var/www/html/favicon.ico
+2026-02-24 06:20 smartd[555]: Device: /dev/sda, [SAT], SMART Usage Attributes Revision 1.0
+2026-02-24 06:33 smartd[555]: Device: /dev/sda, [SAT], SMART Usage Attributes Revision 1.0
+2026-02-24 06:50 kernel: [  33724.324376] TCP: request_sock_TCP: Possible SYN flooding on port 36889. Sending cookies.
+2026-02-24 07:10 systemd[1]: Started Periodic Command Scheduler.
+2026-02-24 07:24 Receiving byte from socket 001 o
+2026-02-24 07:25 Receiving byte from socket 009 a
+2026-02-24 07:42 Receiving byte from socket 010 u
+2026-02-24 07:51 Receiving byte from socket 012 f
+2026-02-24 07:55 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-24 08:00 systemd[1]: Started Docker Application Container Engine.
+2026-02-24 08:08 Receiving byte from socket 006 k
+2026-02-24 08:18 kernel: [  5081.444522] Out of memory: Kill process 5393 (python3) score 123 or sacrifice child
+2026-02-24 08:25 systemd[1]: Started Docker Application Container Engine.
+2026-02-24 08:37 kernel: [  10499.820286] TCP: request_sock_TCP: Possible SYN flooding on port 24527. Sending cookies.
+2026-02-24 08:57 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-24 08:58 systemd[1]: Started Docker Application Container Engine.
+2026-02-24 09:16 apache2[999]: [error] [client 172.16.243.196] File does not exist: /var/www/html/favicon.ico
+2026-02-24 09:23 sshd[5678]: Invalid user service from 10.0.0.45 port 46516
+2026-02-24 09:41 kernel: [  9621.445629] usb 1-1: new high-speed USB device number 39 using xhci_hcd
+2026-02-24 09:58 Receiving byte from socket 004 u
+2026-02-24 10:03 Receiving byte from socket 002 m
+2026-02-24 10:22 Receiving byte from socket 001 l
+2026-02-24 10:34 kernel: [  42573.732430] TCP: request_sock_TCP: Possible SYN flooding on port 41957. Sending cookies.
+2026-02-24 10:38 postfix/smtpd[2222]: connect from unknown[185.234.218.128]
+2026-02-24 10:58 systemd[1]: Started Periodic Command Scheduler.
+2026-02-24 11:17 auth: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.199
+2026-02-24 11:23 kernel: [  41201.945057] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-24 11:32 systemd-resolved[444]: Clock change detected. Flushing caches.
+2026-02-24 11:47 kernel: [  48743.805267] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+2026-02-24 11:58 dockerd[1500]: Container 3fadfb7c6215 started
+2026-02-24 12:02 sshd[5678]: Invalid user service from 10.0.0.63 port 55808
+2026-02-24 12:07 postfix/smtpd[2222]: connect from unknown[185.234.218.77]
+2026-02-24 12:24 smartd[555]: Device: /dev/sda, [SAT], SMART Usage Attributes Revision 1.0
+2026-02-24 12:31 postfix/smtpd[2222]: connect from unknown[185.234.218.125]
+2026-02-24 12:37 kernel: [  12649.538061] Out of memory: Kill process 22634 (python3) score 336 or sacrifice child
+2026-02-24 12:55 dockerd[1500]: Container d85589d5a86b started
+2026-02-24 13:12 postfix/smtpd[2222]: connect from unknown[185.234.218.161]
+2026-02-24 13:32 kernel: [  19109.079730] usb 1-1: new high-speed USB device number 60 using xhci_hcd
+2026-02-24 13:43 systemd[1]: Started Periodic Command Scheduler.
+2026-02-24 13:52 Receiving byte from socket 008 i
+2026-02-24 14:03 kernel: [  27653.137865] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+2026-02-24 14:06 dockerd[1500]: Container ff4430b059d1 started
+2026-02-24 14:14 systemd[1]: Started Periodic Command Scheduler.
+2026-02-24 14:20 kernel: [  28076.885747] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-24 14:35 kernel: [  33582.811136] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+2026-02-24 14:37 systemd[1]: Started Periodic Command Scheduler.
+2026-02-24 14:56 Receiving byte from socket 003 a
+2026-02-24 14:57 systemd[1]: Starting Daily apt download activities...
+2026-02-24 15:05 Receiving byte from socket 001 t
+2026-02-24 15:23 kernel: [  26241.932450] usb 1-1: new high-speed USB device number 111 using xhci_hcd
+2026-02-24 15:25 Receiving byte from socket 011 i
+2026-02-24 15:27 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-24 15:30 systemd-resolved[444]: Clock change detected. Flushing caches.
+2026-02-24 15:49 kernel: [  10906.058625] usb 1-1: new high-speed USB device number 111 using xhci_hcd
+2026-02-24 16:05 systemd[1]: Starting Daily apt download activities...
+2026-02-24 16:24 NetworkManager[888]: <info>  [1682977] device (eth0): state change: activated -> deactivating
+2026-02-24 16:41 dockerd[1500]: Container 8bb07e82ff2a started
+2026-02-24 16:45 dockerd[1500]: Container 89f04529e6f0 started
+2026-02-24 16:56 kernel: [  36387.682872] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-24 17:09 auth: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.72
+2026-02-24 17:27 Receiving byte from socket 008 v
+2026-02-24 17:46 systemd[1]: Started Docker Application Container Engine.
+2026-02-24 17:54 systemd[1]: session-622.scope: Succeeded.
+2026-02-24 18:03 systemd[1]: Started Docker Application Container Engine.
+2026-02-24 18:05 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-24 18:14 kernel: [  37707.907343] usb 1-1: new high-speed USB device number 68 using xhci_hcd
+2026-02-24 18:15 Receiving byte from socket 003 i
+2026-02-24 18:26 postfix/smtpd[2222]: connect from unknown[185.234.218.145]
+2026-02-24 18:39 kernel: [  47069.962653] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-24 18:56 kernel: [  1328.158917] Out of memory: Kill process 25427 (python3) score 501 or sacrifice child
+2026-02-24 18:59 kernel: [  7428.179040] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-24 19:16 Receiving byte from socket 001 k
+2026-02-24 19:33 Receiving byte from socket 001 l
+2026-02-24 19:42 kernel: [  35369.436398] Out of memory: Kill process 2046 (chrome) score 826 or sacrifice child
+2026-02-24 19:49 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-24 19:52 kernel: [  3379.620282] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+2026-02-24 20:10 postfix/smtpd[2222]: connect from unknown[185.234.218.41]
+2026-02-24 20:22 kernel: [  15944.045482] TCP: request_sock_TCP: Possible SYN flooding on port 21524. Sending cookies.
+2026-02-24 20:31 cron[1234]: (root) CMD (   /usr/local/bin/check_temp.sh)
+2026-02-24 20:39 dockerd[1500]: Container 1227d3b3d0d2 started
+2026-02-24 20:52 auth: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.174
+2026-02-24 21:00 kernel: [  4984.202848] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+2026-02-24 21:11 Receiving byte from socket 011 e
+2026-02-24 21:22 cron[1234]: (root) CMD (   /usr/local/bin/check_temp.sh)
+2026-02-24 21:39 dockerd[1500]: Container 890123d8b6e9 started
+2026-02-24 21:59 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-24 22:08 sshd[5678]: Invalid user root from 10.0.0.6 port 41159
+2026-02-24 22:13 systemd[1]: Started Docker Application Container Engine.
+2026-02-24 22:22 Receiving byte from socket 001 l
+2026-02-24 22:23 systemd-resolved[444]: Clock change detected. Flushing caches.
+2026-02-24 22:41 dockerd[1500]: Container 1b943969e6e3 started
+2026-02-24 22:52 smartd[555]: Device: /dev/sda, [SAT], SMART Usage Attributes Revision 1.0
+2026-02-24 23:12 systemd[1]: Starting Daily apt download activities...
+2026-02-24 23:17 NetworkManager[888]: <info>  [1685810] device (eth0): state change: activated -> deactivating
+2026-02-24 23:29 Receiving byte from socket 009 j
+2026-02-24 23:45 apache2[999]: [error] [client 172.16.17.26] File does not exist: /var/www/html/favicon.ico
+2026-02-24 23:51 cron[1234]: (root) CMD (   /usr/local/bin/check_temp.sh)
+2026-02-25 00:09 kernel: [  22370.106771] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-25 00:19 cron[1234]: (root) CMD (   /usr/local/bin/check_temp.sh)
+2026-02-25 00:26 NetworkManager[888]: <info>  [1686186] device (eth0): state change: activated -> deactivating
+2026-02-25 00:38 NetworkManager[888]: <info>  [1683093] device (eth0): state change: activated -> deactivating
+2026-02-25 00:48 kernel: [  40741.719182] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+2026-02-25 01:01 cron[1234]: (root) CMD (   /usr/local/bin/check_temp.sh)
+2026-02-25 01:16 kernel: [  6526.724114] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+2026-02-25 01:24 kernel: [  23105.359034] TCP: request_sock_TCP: Possible SYN flooding on port 61130. Sending cookies.
+2026-02-25 01:44 smartd[555]: Device: /dev/sda, [SAT], SMART Usage Attributes Revision 1.0
+2026-02-25 02:03 Receiving byte from socket 001 b
+2026-02-25 02:15 kernel: [  30497.165229] Out of memory: Kill process 27979 (mysqld) score 807 or sacrifice child
+2026-02-25 02:23 Receiving byte from socket 011 r
+2026-02-25 02:26 systemd[1]: Started Docker Application Container Engine.
+2026-02-25 02:35 systemd[1]: Starting Daily apt download activities...
+2026-02-25 02:52 Receiving byte from socket 004 a
+2026-02-25 03:02 Receiving byte from socket 005 b
+2026-02-25 03:12 systemd-resolved[444]: Clock change detected. Flushing caches.
+2026-02-25 03:29 apache2[999]: [error] [client 172.16.56.96] File does not exist: /var/www/html/favicon.ico
+2026-02-25 03:31 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-25 03:49 kernel: [  43773.028244] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+2026-02-25 04:07 kernel: [  49637.214838] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+2026-02-25 04:10 smartd[555]: Device: /dev/sda, [SAT], SMART Usage Attributes Revision 1.0
+2026-02-25 04:17 kernel: [  34891.796387] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-25 04:32 Receiving byte from socket 012 a
+2026-02-25 04:44 smartd[555]: Device: /dev/sda, [SAT], SMART Usage Attributes Revision 1.0
+2026-02-25 04:45 Receiving byte from socket 008 e
+2026-02-25 04:49 sshd[5678]: Invalid user guest from 10.0.0.95 port 12937
+2026-02-25 05:03 systemd[1]: session-988.scope: Succeeded.
+2026-02-25 05:20 postfix/smtpd[2222]: connect from unknown[185.234.218.189]
+2026-02-25 05:29 kernel: [  30095.606593] Out of memory: Kill process 31061 (node) score 819 or sacrifice child
+2026-02-25 05:30 systemd[1]: Starting Daily apt download activities...
+2026-02-25 05:31 Receiving byte from socket 006 y
+2026-02-25 05:39 kernel: [  35087.170227] Out of memory: Kill process 18839 (node) score 439 or sacrifice child
+2026-02-25 05:41 kernel: [  3127.836273] TCP: request_sock_TCP: Possible SYN flooding on port 39400. Sending cookies.
+2026-02-25 05:47 auth: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.191
+2026-02-25 06:05 Receiving byte from socket 008 r
+2026-02-25 06:21 kernel: [  47098.435220] Out of memory: Kill process 32157 (mysqld) score 242 or sacrifice child
+2026-02-25 06:39 Receiving byte from socket 012 g
+2026-02-25 07:12 systemd[1]: session-996.scope: Succeeded.
+2026-02-25 07:19 Receiving byte from socket 000 b
+2026-02-25 07:31 kernel: [  37734.312540] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-25 07:49 kernel: [  28420.566058] TCP: request_sock_TCP: Possible SYN flooding on port 4500. Sending cookies.
+2026-02-25 07:53 systemd[1]: session-208.scope: Succeeded.
+2026-02-25 08:05 dockerd[1500]: Container e5c3cb60c883 started
+2026-02-25 08:07 dockerd[1500]: Container b4e5fd98328e started
+2026-02-25 08:12 kernel: [  19061.335088] TCP: request_sock_TCP: Possible SYN flooding on port 63405. Sending cookies.
+2026-02-25 08:20 Receiving byte from socket 008 t
+2026-02-25 08:36 kernel: [  30863.520502] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-25 08:53 kernel: [  9657.339602] usb 1-1: new high-speed USB device number 28 using xhci_hcd
+2026-02-25 08:58 apache2[999]: [error] [client 172.16.111.192] File does not exist: /var/www/html/favicon.ico
+2026-02-25 09:06 kernel: [  35627.476116] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
