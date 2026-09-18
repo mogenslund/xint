@@ -1,2 +1,6 @@
-(A) Identify the project codename in the message from hjohnson md5:2dea94a9bc80bdfde8d08c5713e1c6bf @xint
-
+(A) Identify the project codename in the message from hjohnson md5:2dea94a9bc80bdfde8d08c5713e1c6bf +easy @xint
+(A) Identify the city of Vladimir md5:b8020ad20a869ff65a9da861220b3f3c +easy @xint
+(A) Identify the home port of submarine K-118 md5:6dee2fa251213f26cd00abaea3150d7e +easy @xint
+(A) Identify the employee ID of Vladimir md5:669e40b854e5ed89bc374e62800f507d +easy @xint
+??? Codename PANTHEON
+??? GHOST_NET, PHANTOM CELL

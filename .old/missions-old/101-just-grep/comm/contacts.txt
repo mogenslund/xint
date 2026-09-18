@@ -1,8 +1,0 @@
-NAME,ID,CITY,ROLE
-Brian,0102,Seattle,Warehouse Manager
-John,0199,Portland,Dispatch
-Sarah J.,0215,Vancouver,Logistics
-Vladimir,0812,Murmansk,Shipping
-Elena,0441,St. Petersburg,Translator
-Marcus,0911,Berlin,Hardware
-Yusuf,0722,Istanbul,Shipping
