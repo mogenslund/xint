@@ -1,4 +1,5 @@
 cat ./files/messages.jsonl | jq --slurp -r '.[0].content' | base64 -d
+cat ./files/messages.jsonl | jq --slurp -r '.[] | select(.id == "3") | .content' | ./scripts/decrypt 123456 | base64 -d
 cat ./files/messages.jsonl | grep "Look at my wishlist" | jq
 cat ./files/messages.jsonl | grep "Look at my wishlist" | jq -r '.from'
 cat ./files/messages.jsonl | head -n 15 | jq --slurp -r '.[] | [.time, .from, .to, .subject] | @tsv' | column -t -s $'\t'

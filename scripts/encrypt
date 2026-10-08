@@ -1,0 +1,71 @@
+#!/usr/bin/env bash
+
+alphabet="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+alphabet_length=${#alphabet}
+
+# Function to find index of a character in the alphabet
+index_of_char() {
+  local char=$1
+  for ((i=0; i<alphabet_length; i++)); do
+    if [[ "${alphabet:$i:1}" == "$char" ]]; then
+      echo $i
+      return
+    fi
+  done
+  echo -1
+}
+
+# Vigenère encryption function
+encrypt() {
+  local key=$1
+  local plaintext=$2
+  local encrypted=""
+  local key_index=0
+
+  for ((i=0; i<${#plaintext}; i++)); do
+    char="${plaintext:$i:1}"
+    char_pos=$(index_of_char "$char")
+
+    if [[ $char_pos -eq -1 ]]; then
+      encrypted+="$char"
+      continue
+    fi
+
+    key_char="${key:$((key_index % ${#key})):1}"
+    key_char_pos=$(index_of_char "$key_char")
+
+    new_pos=$(( (char_pos + key_char_pos) % alphabet_length ))
+    new_char="${alphabet:$new_pos:1}"
+    encrypted+="$new_char"
+    ((key_index++))
+  done
+  echo "$encrypted"
+}
+
+# Main logic
+if [[ -t 0 ]]; then
+  # No piped input
+  if [[ $# -eq 2 ]]; then
+    encrypt "$1" "$2"
+  elif [[ $# -eq 1 && -f "$1" ]]; then
+    while IFS= read -r line; do
+      encrypt "$1" "$line"
+    done
+  else
+    echo "Usage:"
+    echo "  $0 <key> <plaintext>"
+    echo "  $0 <key> < file.txt"
+    echo "  echo 'text' | $0 <key>"
+    exit 1
+  fi
+else
+  # Handle piped input
+  if [[ $# -ne 1 ]]; then
+    echo "Usage: echo 'text' | $0 <key>"
+    exit 1
+  fi
+  while IFS= read -r line; do
+    encrypt "$1" "$line"
+  done
+fi
+
