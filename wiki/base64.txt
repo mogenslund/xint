@@ -1,0 +1,15 @@
+BASE 64
+-------
+
+EXAMPLES:
+Encoding "This is some content" can be done using:
+    echo "This is some content" | base64
+
+The result is: VGhpcyBpcyBzb21lIGNvbnRlbnQK
+
+It can be decoded again using:
+    echo "VGhpcyBpcyBzb21lIGNvbnRlbnQK" | base64 -d
+
+Combining jq to extract a base64 encoded message and decoding could look like this:
+    cat $XINT/files/messages.jsonl | jq --slurp -r '.[] | select(.id == "1") | .content' | base64 -d
+

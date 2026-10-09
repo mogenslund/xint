@@ -1,0 +1,41 @@
+ENCRYPTION
+----------
+
+EXAMPLES:
+Assuming you have set XINT and aliases from README.md.
+
+Simple encryption and decryption
+    echo "Some important secret" | encrypt 1234
+    echo "Jgf8 9eiiil3hk k76i6m" | decrypt 1234
+
+Read content from message 3, decrypt and base64 decode(Very useful sequence):
+    cat $XINT/files/messages.jsonl | jq --slurp -r '.[] | select(.id == "3") | .content' | decrypt 123456 | base64 -d
+
+LOOPING:
+If we know the password is abc and a digit, so one of abc0, abc1, ..., abc9. We can try all using:
+    for x in {0..9}; do echo "U3brZTDnbYDtcoTfboSec3XhcnXYCh==" | decrypt "abc$x" | base64 -d  ; done
+
+SPECIFICATION
+
+The encryption is a Vigenère cipher with alphabet: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+
+    encrypt "abcd" "klm nop-999"
+
+The letters in the key "abcd" is cycled and the letters in the message is cycled. If a letter is not in the alphabet it is ignored.
+
+    klm nop-999
+    abc dab cda
+    -----------
+    kmo qoq-bc9
+
+a cycles 0, so k is encrypted to k
+b cycles 1, so l is encrypted to m
+c cycles 2, so m is encrypted to o
+The space is skipped, so nothing happens. The letters in the key are paused, so the next letter is used to encrypt the next letter in the message that is in the alphabet.
+d cycles 4, so n is encrypted to q
+a cycles 0, so o is encrypted to 0
+b cycles 1, so p is encrypted to 1
+- is skipped.
+c cycles 2, so 9 is encrypted to b (9 is last in the alphabet, so counting continues in the beginning)
+
+
