@@ -1,6 +1,6 @@
 0001 Steal a token by base64 decoding message 90 in files/messages.jsonl (Maybe get inspiration from wiki/base64.txt)
 0003 Decrypt and uptain the location from message 93 (Maybe get inspiration from wiki/encryption.txt)
-0011 Identify the project codename in the message from hjohnson md5:2dea94a9bc80bdfde8d08c5713e1c6bf
+0007 Identify the project codename in the message from Commander Jason Locke to Bravo
 0012 Identify the city of Vladimir md5:b8020ad20a869ff65a9da861220b3f3c
 0013 Identify the home port of submarine K-118 md5:6dee2fa251213f26cd00abaea3150d7e
 0014 Identify the employee ID of Vladimir md5:669e40b854e5ed89bc374e62800f507d
