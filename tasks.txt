@@ -1,3 +1,4 @@
 0001 Steal a token by base64 decoding message 90 in files/messages.jsonl (Maybe get inspiration from wiki/base64.txt)
 0003 Decrypt and uptain the location from message 93 (Maybe get inspiration from wiki/encryption.txt)
 0007 Identify the project codename in the message from Commander Jason Locke to Bravo
+0010 Extract the missile codes from ???.txt (Further notes can be found in notes/task0010.txt)

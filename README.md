@@ -6,11 +6,11 @@ Everything can be viewed and solved using a bash terminal. But feel free to do h
 
 Read this document carefully. Statements here might be assumptions elsewhere.
 
-## Todos
+## Tassks
 
 Tasks to be solved can be found in
 
-    todo.txt
+    tasks.txt
 
 The solutions are most of the time passwords, tokens or flags.
 
