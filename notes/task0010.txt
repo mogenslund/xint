@@ -1,3 +1,9 @@
-NOTES FOR TASK 0010
+                  NOTES FOR TASK 0010
+               -------------------------
 
+ - The log file is the result of capturing events and
+   entries on foreign computer system.
+ - User with username brs seems to be interesting.
+ - wiki/encryption.txt contains hint for bruteforcing
+   partial passwords.
 

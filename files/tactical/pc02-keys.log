@@ -1,0 +1,76 @@
+2026-02-23 21:10 Receiving byte from socket 003 t
+2026-02-23 21:25 kernel: [  45799.206335] usb 1-1: new high-speed USB device number 83 using xhci_hcd
+2026-02-23 21:31 kernel: [  27419.043594] usb 1-1: new high-speed USB device number 106 using xhci_hcd
+2026-02-23 21:42 systemd[1]: Started Periodic Command Scheduler.
+2026-02-23 21:50 Receiving byte from socket 012 n
+2026-02-23 21:59 brs: Initilizing secure transmission ...
+2026-02-23 22:07 kernel: [  4143.136469] TCP: request_sock_TCP: Possible SYN flooding on port 64620. Sending cookies.
+2026-02-23 22:17 sshd[5678]: Invalid user test from 10.0.0.117 port 63599
+2026-02-23 22:20 kernel: [  7377.975201] usb 1-1: new **high-speed** USB device number 45 using xhci_hcd
+2026-02-23 22:39 dockerd[1500]: Container aa24cb0e25cb started
+2026-02-23 22:42 brs: 8********
+2026-02-23 22:57 kernel: [  19667.471110] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+2026-02-23 23:14 dockerd[1500]: Container fe5342626d3a started
+2026-02-23 23:18 kernel: [  29511.058220] TCP: request_sock_TCP: Possible SYN flooding on port 43299. Sending cookies.
+2026-02-23 23:23 Receiving byte from socket ********008 d
+2026-02-23 23:39 ntp[333]: **synchronized** to 129.6.15.28, stratum 1
+2026-02-23 23:42 sshd[5678]: Invalid user service from 10.0.0.93 port 14368
+2026-02-23 23:50 sshd[5678]: Invalid user service from 10.0.0.145 port 17983
+2026-02-23 23:51 brs: *9*******
+2026-02-24 00:04 auth: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.180
+2026-02-24 00:08 Receiving byte from socket 012 j
+2026-02-24 00:26 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-24 00:31 brs: **1******
+2026-02-24 00:42 kernel: [  10934.078483] usb 1-1: new high-speed USB device number 84 using xhci_hcd
+2026-02-24 00:49 Receiving byte from socket 002 q
+2026-02-24 00:56 kernel: [  21193.300940] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+2026-02-24 01:13 systemd[1]: Started Docker Application Container Engine.
+2026-02-24 01:29 Receiving byte from socket 009 t
+2026-02-24 01:32 systemd[1]: Started Docker Application Container Engine.
+2026-02-24 01:51 auth: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.161
+2026-02-24 02:08 Receiving byte from socket 004 t
+2026-02-24 02:15 brs: ***2*****
+2026-02-24 02:27 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-24 02:36 systemd-resolved[444]: Clock change detected. Flushing caches.
+2026-02-24 02:43 systemd-resolved[444]: Clock change detected. Flushing caches.
+2026-02-24 03:01 auth: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.232
+2026-02-24 03:16 Receiving byte from socket 007 i
+2026-02-24 03:29 kernel: [  12672.857252] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+2026-02-24 03:43 kernel: [  40271.377872] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+2026-02-24 04:02 postfix/smtpd[2222]: connect from unknown[185.234.218.220]
+2026-02-24 04:15 systemd-resolved[444]: Clock change detected. Flushing caches.
+2026-02-24 04:29 Receiving byte from socket 011 f
+2026-02-24 04:32 brs: ****2****
+2026-02-24 04:37 smartd[555]: Device: /dev/sda, [SAT], SMART Usage Attributes Revision 1.0
+2026-02-24 04:54 apache2[999]: [error] [client 172.16.165.25] File does not exist: /var/www/html/favicon.ico
+2026-02-24 05:04 Receiving byte from socket 003 j
+2026-02-24 05:23 systemd-resolved[444]: Clock change detected. Flushing caches.
+2026-02-24 05:28 Receiving byte from socket 009 l
+2026-02-24 05:38 Receiving byte from socket 005 h
+2026-02-24 05:39 brs: *****7***
+2026-02-24 05:48 smartd[555]: Device: /dev/sda, [SAT], SMART Usage Attributes Revision 1.0
+2026-02-24 05:50 kernel: [  17164.785529] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+2026-02-24 06:07 apache2[999]: [error] [client 172.16.216.159] File does not exist: /var/www/html/favicon.ico
+2026-02-24 06:20 smartd[555]: Device: /dev/sda, [SAT], SMART Usage Attributes Revision 1.0
+2026-02-24 06:33 smartd[555]: Device: /dev/sda, [SAT], SMART Usage Attributes Revision 1.0
+2026-02-24 06:50 kernel: [  33724.324376] TCP: request_sock_TCP: Possible SYN flooding on port 36889. Sending cookies.
+2026-02-24 06:52 brs: ******2**
+2026-02-24 07:10 systemd[1]: Started Periodic Command Scheduler.
+2026-02-24 07:24 Receiving byte from socket 001 o
+2026-02-24 07:25 Receiving byte from socket 009 a
+2026-02-24 07:42 Receiving byte from socket 010 u
+2026-02-24 07:49 brs: *******9*
+2026-02-24 07:51 Receiving byte from socket 012 f
+2026-02-24 07:55 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-24 08:00 systemd[1]: Started Docker Application Container Engine.
+2026-02-24 08:08 Receiving byte from socket 006 k
+2026-02-24 08:18 kernel: [  5081.444522] Out of memory: Kill process 5393 (python3) score 123 or sacrifice child
+2026-02-24 08:25 systemd[1]: Started Docker Application Container Engine.
+2026-02-24 08:37 kernel: [  10499.820286] TCP: request_sock_TCP: Possible SYN flooding on port 24527. Sending cookies.
+2026-02-24 08:41 brs: ** failed capture
+2026-02-24 08:57 ntp[333]: synchronized to 129.6.15.28, stratum 1
+2026-02-24 08:58 brs: cFcm5Els4VMq2OudWWLuQyNwPyO0LaF1z8==
+2026-02-24 08:58 systemd[1]: Started Docker Application Container Engine.
+
+
+
